@@ -55,6 +55,7 @@ urls.download = "https://github.com/RomainBrault/toto/releases"
 urls.homepage = "https://github.com/RomainBrault/toto"
 urls.integration = "https://github.com/RomainBrault/toto/actions"
 urls.issues = "https://github.com/RomainBrault/toto/issues"
+urls.pypi = "https://pypi.org/project/toto"
 urls.repository = "https://github.com/RomainBrault/toto"
 
 [tool.uv]

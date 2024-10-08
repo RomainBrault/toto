@@ -14,7 +14,8 @@ SPDX-License-Identifier: MIT
         </em>
     </p>
     <p>
-        <a href="https://www.python.org/"><img alt="Python badge" src="https://img.shields.io/badge/Python->=3.9-306998.svg?logo=Python&logoColor=ffd43b"/></a>
+        <a href="https://www.python.org"><img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/toto.svg?logo=Python&logoColor=ffd43b"/></a>
+        <a href="https://pypi.org/project/toto"><img alt="PyPI - Project Version" src="https://img.shields.io/pypi/v/toto.svg?logo=PyPI&logoColor=ffd43b"/></a>
         <a href="https://spdx.org/licenses/MIT"><img alt="license badge" src="https://img.shields.io/badge/📝_License-MIT-4CAF50.svg"/></a>
         <a href="https://github.com/RomainBrault/toto/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/RomainBrault/toto.svg?logo=GitHub"></a>
         <a href="https://spdx.dev/learn/areas-of-interest/licensing/"><img alt="SPDX Licensing" src="https://img.shields.io/badge/SPDX-licensing-0080FF.svg?logo=SPDX"/></a>
