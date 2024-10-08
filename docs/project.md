@@ -6,7 +6,9 @@ SPDX-License-Identifier: MIT
 
 # 🛠️ Codebase Overview
 
-The project is organised as follow.
+The project is hosted on [https://github.com/RomainBrault/toto.git](https://github.com/RomainBrault/toto.git).
+
+It is organised as follow.
 
 ## Files and directories
 

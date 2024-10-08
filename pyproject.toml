@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2024 The "Toto" contributors <romain.brault@romainbrault.com>
+# SPDX-FileCopyrightText: © 2024 The "Toto" contributors <romain.brault@romainbrault.com>
 #
 # SPDX-License-Identifier: MIT
 
@@ -15,7 +15,6 @@ keywords = [
     "Python",
 ]
 license = "MIT"
-
 license-files.paths = [
     "LICENSES/MIT.txt",
 ]
@@ -48,6 +47,15 @@ dynamic = [
     "version",
 ]
 dependencies = [  ]
+
+urls.changelog = "https://github.com/RomainBrault/toto/releases"
+urls.discussions = "https://github.com/RomainBrault/toto/discussions"
+urls.documentation = "https://github.com/RomainBrault/toto"
+urls.download = "https://github.com/RomainBrault/toto/releases"
+urls.homepage = "https://github.com/RomainBrault/toto"
+urls.integration = "https://github.com/RomainBrault/toto/actions"
+urls.issues = "https://github.com/RomainBrault/toto/issues"
+urls.repository = "https://github.com/RomainBrault/toto"
 
 [tool.uv]
 managed = true
