@@ -20,6 +20,7 @@ SPDX-License-Identifier: MIT
         <a href="https://github.com/RomainBrault/toto/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/RomainBrault/toto.svg?logo=GitHub"></a>
         <a href="https://spdx.dev/learn/areas-of-interest/licensing/"><img alt="SPDX Licensing" src="https://img.shields.io/badge/SPDX-licensing-0080FF.svg?logo=SPDX"/></a>
         <a href="https://www.contributor-covenant.org/version/2/1/code_of_conduct/"><img alt="contributor covenant badge" src="https://img.shields.io/badge/Contributor_Covenant-2.1-4BAAAA.svg?logo=contributorcovenant"/></a>
+        <a href="https://codecov.io/gh/RomainBrault/toto" ><img alt="codecov badge" src="https://codecov.io/gh/RomainBrault/toto/graph/badge.svg?token="/></a>
     </p>
 </div>
 
